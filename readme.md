@@ -1,4 +1,4 @@
-This is a brief coding dojo project that goes over the use of the CSS shorthand "display: flex" and "flex: n"  properties
+This is a brief Coding Dojo project that goes over the use of the CSS shorthand "display: flex" and "flex: n"  properties
 
 
 - Recreate the first row with evenly spaced columns
